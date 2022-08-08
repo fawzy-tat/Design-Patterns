@@ -4,7 +4,7 @@
  * @fawzytat https://github.com/fawzy-tat
  * To run the file make sure you have typescript ts-node installed globally.
  * npm i -g typescript ts-node
- * use ts-node StrategyDP.ts to run the file
+ * use ts-node StrategyDesignPattern.ts to run the file
  */
 class Sale {
   /**
